@@ -6,9 +6,13 @@ Project Description
 The Tour Booking Application provides users with an intuitive interface to book tours with the following features:
 
 Fill in booking details (tour name, full name, phone number, guest count, and date).
+
 Dynamic calculation of total booking cost, including a service fee.
+
 Real-time validation for user inputs such as name, phone number, and guest count.
+
 Invoice generation upon successful booking.
+
 Navigation to a confirmation page with the invoice summary and options to return to the homepage.
 
 
