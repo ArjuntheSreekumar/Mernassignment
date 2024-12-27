@@ -12,8 +12,9 @@ import bookingRoute from './routes/bookings.js';
 const app = express();
 const port = 8000; // Use the desired port directly
 
-// MongoDB Connection URI
-const MONGO_URI = 'mongodb+srv://chessnew2026:arjun2004@cluster101.ssavo.mongodb.net/tour-booking?retryWrites=true&w=majority';
+// MongoDB Connection URI// Updated MongoDB Connection URI
+const MONGO_URI = 'mongodb+srv://newaccount101:arjun_2004@cluster0.cf5gq.mongodb.net/tour-booking?retryWrites=true&w=majority';
+
 
 // Database connection
 mongoose.set('strictQuery', false);
